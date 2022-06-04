@@ -1,0 +1,327 @@
+<?xml version"1.0" encoding"UTF-8"?>
+<root>
+  <Supermercado>
+    <Nombresocial>Mercadona</Nombresocial>
+    <Dirección>Calle de Antonio Lopez, 117</Dirección>
+    <Horario>9 a 21:30</Horario>
+    <Geolocalización>40.38953148885216, -3.7005615189074113</Geolocalización>
+    <Departamentos>
+      <Fruteria>
+        <Productos>
+          <nombreproducto>platano de Canarias</nombreproducto>
+          <ofertaactual>1.2€ por kg</ofertaactual>
+          <periodovigencia>1 semana</periododevigencia>
+          <unidades >0.5</unidades>
+          <unidadesdemedida>Kg</unidadesdemedida>
+          <precio >2.8</precio>
+          <ofertahabitual boolean>false</ofertahabitual>
+          <adquirido boolean>true</adquirido>
+        </Productos>
+        <Productos>
+          <nombreproducto>manzana roja</nombreproducto>
+          <ofertaactual>2€ por kg</ofertaactual>
+          <periododevigencia>2 semana</periododevigencia>
+          <unidades >0.7</unidades>
+          <unidadesdemedida>Kg</unidadesdemedida>
+          <precio >1.6</precio>
+          <ofertahabitual boolean>true</ofertahabitual>
+          <adquirido boolean>false</adquirido>
+        </Productos>
+        <Productos>
+          <nombreproducto>melón piel de sapo</nombreproducto>
+          <ofertaactual>7€ por kg</ofertaactual>
+          <periododevigencia>3 semanas</periododevigencia>
+          <unidades >1.5</unidades>
+          <unidadesdemedida>Kg</unidadesdemedida>
+          <precio >8.6</precio>
+          <ofertahabitual boolean>true</ofertahabitual>
+          <adquirido boolean>true</adquirido>
+        </Productos>
+      </Fruteria>
+    </Departamentos>
+    <Departamentos>
+      <Charcuteríayquesos array>
+        <Productos>
+          <nombreproducto>Pechuga pavo</nombreproducto>
+          <ofertaactual>3.28€ 2xpack</ofertaactual>
+          <periododevigencia>3 meses</periododevigencia>
+          <unidades >400</unidades>
+          <unidadesdemedida>g</unidadesdemedida>
+          <precio >3.28</precio>
+          <ofertahabitual boolean>true</ofertahabitual>
+          <adquirido boolean>true</adquirido>
+        </Productos>
+        <Productos>
+          <nombreproducto>longaniza</nombreproducto>
+          <ofertaactual>2.20€ 4xpack</ofertaactual>
+          <periododevigencia>6 meses</periododevigencia>
+          <unidades >200</unidades>
+          <unidadesdemedida>g</unidadesdemedida>
+          <precio >2.2</precio>
+          <ofertahabitual boolean>false</ofertahabitual>
+          <adquirido boolean>false</adquirido>
+        </Productos>
+        <Productos>
+          <nombreproducto>Queso curado</nombreproducto>
+          <ofertaactual>no aplica</ofertaactual>
+          <periododevigencia>8 meses</periododevigencia>
+          <unidades >315</unidades>
+          <unidadesdemedida>g</unidadesdemedida>
+          <precio >3.95</precio>
+          <ofertahabitual boolean>false</ofertahabitual>
+          <adquirido boolean>false</adquirido>
+        </Productos>
+      </Charcuteríayquesos>
+    </Departamentos>
+    <Departamentos>
+      <LimpiezayHogar array>
+        <Productos>
+          <nombreproducto>Detergente en capsulas Ariel</nombreproducto>
+          <ofertaactual>no aplica</ofertaactual>
+          <periododevigencia>2 años</periododevigencia>
+          <unidades >25</unidades>
+          <unidadesdemedida>capsulas</unidadesdemedida>
+          <precio >7.45</precio>
+          <ofertahabitual boolean>false</ofertahabitual>
+          <adquirido boolean>true</adquirido>
+        </Productos>
+        <Productos>
+          <nombreproducto>lejia</nombreproducto>
+          <ofertaactual>no aplica</ofertaactual>
+          <periododevigencia>3 años</periododevigencia>
+          <unidades >3</unidades>
+          <unidadesdemedida>L</unidadesdemedida>
+          <precio >5.67</precio>
+          <ofertahabitual boolean>false</ofertahabitual>
+          <adquirido boolean>false</adquirido>
+        </Productos>
+        <Productos>
+          <nombreproducto>suavizante flor</nombreproducto>
+          <ofertaactual>no aplica</ofertaactual>
+          <periododevigencia>1 año</periododevigencia>
+          <unidades >5</unidades>
+          <unidadesdemedida>L</unidadesdemedida>
+          <precio >10.9</precio>
+          <ofertahabitual boolean>false</ofertahabitual>
+          <adquirido boolean>true</adquirido>
+        </Productos>
+      </LimpiezayHogar>
+    </Departamentos>
+  </Supermercado>
+  <Supermercado>
+    <Nombresocial>Carrefour</Nombresocial>
+    <Dirección>Calle de Embajadores,50</Dirección>
+    <Horario>9 a 21:00</Horario>
+    <Geolocalización array>40.40883762757263, -3.704970748261235</Geolocalización>
+    <Departamentos>
+      <Fruteria array>
+        <Productos>
+          <nombreproducto>aguacate</nombreproducto>
+          <ofertaactual>no aplica</ofertaactual>
+          <periododevigencia>1 semana</periododevigencia>
+          <unidades >500</unidades>
+          <unidadesdemedida>g</unidadesdemedida>
+          <precio >1.99</precio>
+          <ofertahabitual boolean>false</ofertahabitual>
+          <adquirido boolean>false</adquirido>
+        </Productos>
+        <Productos>
+          <nombreproducto>limon malla</nombreproducto>
+          <ofertaactual>2kg 2€</ofertaactual>
+          <periododevigencia>3 semanas</periododevigencia>
+          <unidades >1</unidades>
+          <unidadesdemedida>kg</unidadesdemedida>
+          <precio >1.79</precio>
+          <ofertahabitual boolean>true</ofertahabitual>
+          <adquirido boolean>true</adquirido>
+        </Productos>
+        <Productos>
+          <nombreproducto>manzana golden</nombreproducto>
+          <ofertaactual>2kg 2.25€</ofertaactual>
+          <periododevigencia>2 semanas</periododevigencia>
+          <unidades >1.25</unidades>
+          <unidadesdemedida>kg</unidadesdemedida>
+          <precio >1.88</precio>
+          <ofertahabitual boolean>true</ofertahabitual>
+          <adquirido boolean>false</adquirido>
+        </Productos>
+      </Fruteria>
+    </Departamentos>
+    <Departamentos>
+      <Charcuteríayquesos array>
+        <Productos>
+          <nombreproducto>mortadela ahumada</nombreproducto>
+          <ofertaactual>7.3€ kg</ofertaactual>
+          <periododevigencia>2o dias</periododevigencia>
+          <unidades >170</unidades>
+          <unidadesdemedida>g</unidadesdemedida>
+          <precio >1.25</precio>
+          <ofertahabitual boolean>true</ofertahabitual>
+          <adquirido boolean>true</adquirido>
+        </Productos>
+        <Productos>
+          <nombreproducto>queso mozzarella</nombreproducto>
+          <ofertaactual>no aplica</ofertaactual>
+          <periododevigencia>4 dias</periododevigencia>
+          <unidades >250</unidades>
+          <unidadesdemedida>g</unidadesdemedida>
+          <precio >2.31</precio>
+          <ofertahabitual boolean>false</ofertahabitual>
+          <adquirido boolean>false</adquirido>
+        </Productos>
+        <Productos>
+          <nombreproducto>queso azul</nombreproducto>
+          <ofertaactual>no aplica</ofertaactual>
+          <periododevigencia>3 semanas</periododevigencia>
+          <unidades >500</unidades>
+          <unidadesdemedida>g</unidadesdemedida>
+          <precio >10.2</precio>
+          <ofertahabitual boolean>false</ofertahabitual>
+          <adquirido boolean>true</adquirido>
+        </Productos>
+      </Charcuteríayquesos>
+    </Departamentos>
+    <Departamentos>
+      <LimpiezayHogar array>
+        <Productos>
+          <nombreproducto>Detergente liquido Skip</nombreproducto>
+          <ofertaactual>no aplica</ofertaactual>
+          <periododevigencia>3 años</periododevigencia>
+          <unidades >5</unidades>
+          <unidadesdemedida>L</unidadesdemedida>
+          <precio >16.29</precio>
+          <ofertahabitual boolean>false</ofertahabitual>
+          <adquirido boolean>true</adquirido>
+        </Productos>
+        <Productos>
+          <nombreproducto>lavavajillas</nombreproducto>
+          <ofertaactual>2 botes por 4€</ofertaactual>
+          <periododevigencia>5 años</periododevigencia>
+          <unidades >1</unidades>
+          <unidadesdemedida>L</unidadesdemedida>
+          <precio >1.39</precio>
+          <ofertahabitual boolean>true</ofertahabitual>
+          <adquirido boolean>false</adquirido>
+        </Productos>
+        <Productos>
+          <nombreproducto>suavizante flor</nombreproducto>
+          <ofertaactual>no aplica</ofertaactual>
+          <periododevigencia>1 año</periododevigencia>
+          <unidades >5</unidades>
+          <unidadesdemedida>L</unidadesdemedida>
+          <precio >10.9</precio>
+          <ofertahabitual boolean>false</ofertahabitual>
+          <adquirido boolean>true</adquirido>
+        </Productos>
+      </LimpiezayHogar>
+    </Departamentos>
+  </Supermercado>
+  <Supermercado>
+    <Nombresocial>Dia</Nombresocial>
+    <Dirección>Calle de Embajadores,196</Dirección>
+    <Horario>9 a 22:00</Horario>
+    <Geolocalización array>40.393817988049626, -3.693939856343151</Geolocalización>
+    <Departamentos>
+      <Fruteria array>
+        <Productos>
+          <nombreproducto>pera conferencia</nombreproducto>
+          <ofertaactual>1kg 1€</ofertaactual>
+          <periododevigencia>2 semanas</periododevigencia>
+          <unidades >300</unidades>
+          <unidadesdemedida>g</unidadesdemedida>
+          <precio >0.57</precio>
+          <ofertahabitual boolean>true</ofertahabitual>
+          <adquirido boolean>true</adquirido>
+        </Productos>
+        <Productos>
+          <nombreproducto>bandeja fresas</nombreproducto>
+          <ofertaactual>no aplica</ofertaactual>
+          <periododevigencia>1 semana</periododevigencia>
+          <unidades >500</unidades>
+          <unidadesdemedida>g</unidadesdemedida>
+          <precio >1.38</precio>
+          <ofertahabitual boolean>false</ofertahabitual>
+          <adquirido boolean>false</adquirido>
+        </Productos>
+        <Productos>
+          <nombreproducto>kiwi</nombreproducto>
+          <ofertaactual>3€ 1.5kg</ofertaactual>
+          <periododevigencia>2 semanas</periododevigencia>
+          <unidades >220</unidades>
+          <unidadesdemedida>g</unidadesdemedida>
+          <precio >0.7</precio>
+          <ofertahabitual boolean>true</ofertahabitual>
+          <adquirido boolean>true</adquirido>
+        </Productos>
+      </Fruteria>
+    </Departamentos>
+    <Departamentos>
+      <Charcuteríayquesos array>
+        <Productos>
+          <nombreproducto>jamon cocido</nombreproducto>
+          <ofertaactual>11€ kg</ofertaactual>
+          <periododevigencia>1 mes</periododevigencia>
+          <unidades >500</unidades>
+          <unidadesdemedida>g</unidadesdemedida>
+          <precio >6.5</precio>
+          <ofertahabitual boolean>false</ofertahabitual>
+          <adquirido boolean>false</adquirido>
+        </Productos>
+        <Productos>
+          <nombreproducto>chopped</nombreproducto>
+          <ofertaactual>1€ paquete 200g</ofertaactual>
+          <periododevigencia>4 meses</periododevigencia>
+          <unidades >1</unidades>
+          <unidadesdemedida>Kg</unidadesdemedida>
+          <precio >8.7</precio>
+          <ofertahabitual boolean>true</ofertahabitual>
+          <adquirido boolean>true</adquirido>
+        </Productos>
+        <Productos>
+          <nombreproducto>tiras pollo</nombreproducto>
+          <ofertaactual>2€ paquete 250g</ofertaactual>
+          <periododevigencia>1 mes</periododevigencia>
+          <unidades >1</unidades>
+          <unidadesdemedida>Kg</unidadesdemedida>
+          <precio >10.9</precio>
+          <ofertahabitual boolean>true</ofertahabitual>
+          <adquirido boolean>false</adquirido>
+        </Productos>
+      </Charcuteríayquesos>
+    </Departamentos>
+    <Departamentos>
+      <LimpiezayHogar array>
+        <Productos>
+          <nombreproducto>Detergente en capsulas Ariel</nombreproducto>
+          <ofertaactual>no aplica</ofertaactual>
+          <periododevigencia>2 años</periododevigencia>
+          <unidades >25</unidades>
+          <unidadesdemedida>capsulas</unidadesdemedida>
+          <precio >7.45</precio>
+          <ofertahabitual boolean>false</ofertahabitual>
+          <adquirido boolean>true</adquirido>
+        </Productos>
+        <Productos>
+          <nombreproducto>limpiador cristales</nombreproducto>
+          <ofertaactual>no aplica</ofertaactual>
+          <periododevigencia>3 años</periododevigencia>
+          <unidades >1</unidades>
+          <unidadesdemedida>L</unidadesdemedida>
+          <precio >1.75</precio>
+          <ofertahabitual boolean>false</ofertahabitual>
+          <adquirido boolean>true</adquirido>
+        </Productos>
+        <Productos>
+          <nombreproducto>suavizante marcilla</nombreproducto>
+          <ofertaactual>no aplica</ofertaactual>
+          <periododevigencia>1 año</periododevigencia>
+          <unidades >3</unidades>
+          <unidadesdemedida>L</unidadesdemedida>
+          <precio >8.7</precio>
+          <ofertahabitual boolean>false</ofertahabitual>
+          <adquirido boolean>false</adquirido>
+        </Productos>
+      </LimpiezayHogar>
+    </Departamentos>
+  </Supermercado>
+</root>

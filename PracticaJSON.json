@@ -1,0 +1,324 @@
+{"Supermercado":[
+    {
+        "Nombre social":"Mercadona",
+        "Dirección":"Calle de Antonio Lopez, 117",
+        "Horario": "9 a 21:30",
+        "Geolocalización":["40.38953148885216, -3.7005615189074113"],
+        "Departamentos":[
+            {"Fruteria":[
+                {"Productos": [
+                        {"nombreproducto": "platano de Canarias",
+                         "oferta actual":"1.2€ por kg",
+                         "periodo de vigencia":"1 semana",
+                         "unidades":0.5,
+                         "unidades de medida":"Kg",
+                         "precio":2.8,
+                         "oferta habitual":false,
+                         "adquirido":true
+                        },
+                        {"nombreproducto": "manzana roja",
+                         "oferta actual":"2€ por kg",
+                         "periodo de vigencia":"2 semana",
+                         "unidades":0.7,
+                         "unidades de medida":"Kg",
+                         "precio":1.6,
+                         "oferta habitual":true,
+                         "adquirido":false
+                        },
+                        {"nombreproducto": "melón piel de sapo",
+                         "oferta actual":"7€ por kg",
+                         "periodo de vigencia":"3 semanas",
+                         "unidades":1.5,
+                         "unidades de medida":"Kg",
+                         "precio":8.6,
+                         "oferta habitual":true,
+                         "adquirido":true
+                        }
+                        ]  
+                }
+                    ]
+            },
+            {"Charcutería y quesos":[
+                {"Productos": [
+                        {"nombreproducto": "Pechuga pavo",
+                         "oferta actual":"3.28€ 2xpack",
+                         "periodo de vigencia":"3 meses",
+                         "unidades":400,
+                         "unidades de medida":"g",
+                         "precio":3.28,
+                         "oferta habitual":true,
+                         "adquirido":true
+                        },
+                        {"nombreproducto": "longaniza",
+                         "oferta actual":"2.20€ 4xpack",
+                         "periodo de vigencia":"6 meses",
+                         "unidades":200,
+                         "unidades de medida":"g",
+                         "precio":2.2,
+                         "oferta habitual":false,
+                         "adquirido":false
+                        },
+                        {"nombreproducto": "Queso curado",
+                         "oferta actual":"no aplica",
+                         "periodo de vigencia":"8 meses",
+                         "unidades":315,
+                         "unidades de medida":"g",
+                         "precio":3.95,
+                         "oferta habitual":false,
+                         "adquirido":false
+                        }
+                        ]
+                }
+                ]
+            },
+            {"Limpieza y Hogar": [
+                {"Productos": [
+                        {"nombreproducto": "Detergente en capsulas Ariel",
+                         "oferta actual":"no aplica",
+                         "periodo de vigencia":"2 años",
+                         "unidades":25,
+                         "unidades de medida":"capsulas",
+                         "precio":7.45,
+                         "oferta habitual":false,
+                         "adquirido":true
+                        },
+                        {"nombreproducto": "lejia",
+                         "oferta actual":"no aplica",
+                         "periodo de vigencia":"3 años",
+                         "unidades":3,
+                         "unidades de medida":"L",
+                         "precio":5.67,
+                         "oferta habitual":false,
+                         "adquirido":false
+                        },
+                        {"nombreproducto": "suavizante flor",
+                         "oferta actual":"no aplica",
+                         "periodo de vigencia":"1 año",
+                         "unidades":5,
+                         "unidades de medida":"L",
+                         "precio":10.9,
+                         "oferta habitual":false,
+                         "adquirido":true
+                        }
+                    ]
+                    }
+            ]
+            }
+    ]
+    },
+    {
+        "Nombre social":"Carrefour",
+        "Dirección":"Calle de Embajadores,50",
+        "Horario": "9 a 21:00",
+        "Geolocalización":["40.40883762757263, -3.704970748261235"],
+        "Departamentos":[
+            {"Fruteria":[
+                {"Productos": [
+                        {"nombreproducto": "aguacate",
+                         "oferta actual":"no aplica",
+                         "periodo de vigencia":"1 semana",
+                         "unidades":500,
+                         "unidades de medida":"g",
+                         "precio":1.99,
+                         "oferta habitual":false,
+                         "adquirido":false
+                        },
+                        {"nombreproducto": "limon malla",
+                         "oferta actual":"2kg 2€",
+                         "periodo de vigencia":"3 semanas",
+                         "unidades":1,
+                         "unidades de medida":"kg",
+                         "precio":1.79,
+                         "oferta habitual":true,
+                         "adquirido":true
+                        }, 
+                        {"nombreproducto": "manzana golden",
+                         "oferta actual":"2kg 2.25€",
+                         "periodo de vigencia":"2 semanas",
+                         "unidades":1.25,
+                         "unidades de medida":"kg",
+                         "precio":1.88,
+                         "oferta habitual":true,
+                         "adquirido":false           
+                        }
+                ]  
+                }
+            ]
+            },              
+            {"Charcutería y quesos":[
+                {"Productos": [
+                        {"nombreproducto": "mortadela ahumada",
+                        "oferta actual":"7.3€ kg",
+                        "periodo de vigencia":"2o dias",
+                        "unidades":170,
+                        "unidades de medida":"g",
+                        "precio":1.25,
+                        "oferta habitual":true,
+                        "adquirido":true
+                       },
+                       {"nombreproducto": "queso mozzarella",
+                        "oferta actual":"no aplica",
+                        "periodo de vigencia":"4 dias",
+                        "unidades":250,
+                        "unidades de medida":"g",
+                        "precio":2.31,
+                        "oferta habitual":false,
+                        "adquirido":false
+                       }, 
+                       {"nombreproducto": "queso azul",
+                        "oferta actual":"no aplica",
+                        "periodo de vigencia":"3 semanas",
+                        "unidades":500,
+                        "unidades de medida":"g",
+                        "precio":10.2,
+                        "oferta habitual":false,
+                        "adquirido":true           
+                       }
+                ]
+                }
+            ]
+            },
+            {"Limpieza y Hogar": [
+                {"Productos": [
+                        {"nombreproducto": "Detergente liquido Skip",
+                         "oferta actual":"no aplica",
+                         "periodo de vigencia":"3 años",
+                         "unidades":5,
+                         "unidades de medida":"L",
+                         "precio":16.29,
+                         "oferta habitual":false,
+                         "adquirido":true
+                        },
+                        {"nombreproducto": "lavavajillas",
+                         "oferta actual":"2 botes por 4€",
+                         "periodo de vigencia":"5 años",
+                         "unidades":1,
+                         "unidades de medida":"L",
+                         "precio":1.39,
+                         "oferta habitual":true,
+                         "adquirido":false
+                        },
+                        {"nombreproducto": "suavizante flor",
+                         "oferta actual":"no aplica",
+                         "periodo de vigencia":"1 año",
+                         "unidades":5,
+                         "unidades de medida":"L",
+                         "precio":10.9,
+                         "oferta habitual":false,
+                         "adquirido":true
+                        }
+                    ]
+                    }
+            ]
+            }
+    ]
+    },
+    {
+        "Nombre social":"Dia",
+        "Dirección":"Calle de Embajadores,196",
+        "Horario": "9 a 22:00",
+        "Geolocalización":["40.393817988049626, -3.693939856343151"],
+        "Departamentos":[
+            {"Fruteria":[
+                {"Productos": [
+                        {"nombreproducto": "pera conferencia",
+                         "oferta actual":"1kg 1€",
+                         "periodo de vigencia":"2 semanas",
+                         "unidades":300,
+                         "unidades de medida":"g",
+                         "precio":0.57,
+                         "oferta habitual":true,
+                         "adquirido":true
+                        },
+                        {"nombreproducto": "bandeja fresas",
+                         "oferta actual":"no aplica",
+                         "periodo de vigencia":"1 semana",
+                         "unidades":500,
+                         "unidades de medida":"g",
+                         "precio":1.38,
+                         "oferta habitual":false,
+                         "adquirido":false
+                        }, 
+                        {"nombreproducto": "kiwi",
+                         "oferta actual":"3€ 1.5kg",
+                         "periodo de vigencia":"2 semanas",
+                         "unidades":220,
+                         "unidades de medida":"g",
+                         "precio":0.7,
+                         "oferta habitual":true,
+                         "adquirido":true           
+                        }
+                ]  
+                }
+            ]
+            },              
+            {"Charcutería y quesos":[
+                {"Productos": [
+                        {"nombreproducto": "jamon cocido",
+                        "oferta actual":"11€ kg",
+                        "periodo de vigencia":"1 mes",
+                        "unidades":500,
+                        "unidades de medida":"g",
+                        "precio":6.5,
+                        "oferta habitual":false,
+                        "adquirido":false
+                       },
+                       {"nombreproducto": "chopped",
+                        "oferta actual":"1€ paquete 200g",
+                        "periodo de vigencia":"4 meses",
+                        "unidades":1,
+                        "unidades de medida":"Kg",
+                        "precio":8.7,
+                        "oferta habitual":true,
+                        "adquirido":true
+                       }, 
+                       {"nombreproducto": "tiras pollo",
+                        "oferta actual":"2€ paquete 250g",
+                        "periodo de vigencia":"1 mes",
+                        "unidades":1,
+                        "unidades de medida":"Kg",
+                        "precio":10.9,
+                        "oferta habitual":true,
+                        "adquirido":false           
+                       }
+                ]
+                }
+            ]
+            },
+            {"Limpieza y Hogar": [
+                {"Productos": [
+                        {"nombreproducto": "Detergente en capsulas Ariel",
+                         "oferta actual":"no aplica",
+                         "periodo de vigencia":"2 años",
+                         "unidades":25,
+                         "unidades de medida":"capsulas",
+                         "precio":7.45,
+                         "oferta habitual":false,
+                         "adquirido":true
+                        },
+                        {"nombreproducto": "limpiador cristales",
+                         "oferta actual":"no aplica",
+                         "periodo de vigencia":"3 años",
+                         "unidades":1,
+                         "unidades de medida":"L",
+                         "precio":1.75,
+                         "oferta habitual":false,
+                         "adquirido":true
+                        },
+                        {"nombreproducto": "suavizante marcilla",
+                         "oferta actual":"no aplica",
+                         "periodo de vigencia":"1 año",
+                         "unidades":3,
+                         "unidades de medida":"L",
+                         "precio":8.7,
+                         "oferta habitual":false,
+                         "adquirido":false
+                        }
+                    ]
+                    }
+            ]
+            }
+    ]
+    }
+]
+}            
